@@ -1,4 +1,6 @@
 # charter-rewards-points
+# vite
+# react-table
 
 This project is creted using vite. To Run this Project follow below steps:
 
